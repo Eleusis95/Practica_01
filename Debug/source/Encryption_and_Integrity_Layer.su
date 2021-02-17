@@ -1,0 +1,14 @@
+Encryption_and_Integrity_Layer.c:13:6:Init_EncryptionAndIntegrity	56	static
+Encryption_and_Integrity_Layer.c:63:15:encrypt_msg	224	static
+Encryption_and_Integrity_Layer.c:96:13:decrypt_msg	216	static
+Encryption_and_Integrity_Layer.c:116:5:server_create	16	static
+Encryption_and_Integrity_Layer.c:137:7:server_accept	16	static
+Encryption_and_Integrity_Layer.c:144:6:close	8	static
+Encryption_and_Integrity_Layer.c:149:6:send_msg	544	static
+Encryption_and_Integrity_Layer.c:165:6:receive_msg	1072	static
+Encryption_and_Integrity_Layer.c:213:8:messageBody	24	static
+Encryption_and_Integrity_Layer.c:221:13:get_CRC	32	static
+Encryption_and_Integrity_Layer.c:231:13:substr	32	static
+Encryption_and_Integrity_Layer.c:240:17:calculate_CRC	24	static
+Encryption_and_Integrity_Layer.c:256:13:InitCrc32	32	static
+Encryption_and_Integrity_Layer.c:270:14:concatenate_strToSend_CRC	24	static
